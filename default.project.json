@@ -1,0 +1,13 @@
+{
+	"name": "rsm",
+	"tree": {
+		"$className": "Folder",
+		"dist": { "$path": "dist" },
+		"node_modules": {
+			"$className": "Folder",
+			"@rbxts": {
+				"$path": "node_modules/@rbxts"
+			}
+		}
+	}
+}
