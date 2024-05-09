@@ -1,7 +1,7 @@
 {
   "name": "@rbxts/rsm",
   "version": "1.0.0",
-  "main": "dist/init.lua",
+  "main": "out/init.lua",
   "scripts": {
     "build": "rbxtsc",
     "watch": "rbxtsc -w",
@@ -11,9 +11,9 @@
   "author": "",
   "license": "ISC",
   "description": "",
-  "types": "dist/index.d.ts",
+  "types": "out/index.d.ts",
   "files": [
-    "dist",
+    "out",
     "!**/*.tsbuildinfo"
   ],
   "publishConfig": {

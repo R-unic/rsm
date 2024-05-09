@@ -19,9 +19,9 @@
 
 		// configurable
 		"rootDir": "src",
-		"outDir": "dist",
+		"outDir": "out",
 		"incremental": true,
-		"tsBuildInfoFile": "dist/.tsbuildinfo",
+		"tsBuildInfoFile": "out/.tsbuildinfo",
 		"declaration": true
 	}
 }

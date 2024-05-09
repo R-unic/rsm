@@ -2,7 +2,7 @@
 	"name": "rsm",
 	"tree": {
 		"$className": "Folder",
-		"dist": { "$path": "dist" },
+		"out": { "$path": "out" },
 		"node_modules": {
 			"$className": "Folder",
 			"@rbxts": {
